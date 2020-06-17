@@ -8,11 +8,11 @@ with open('requirements.txt') as f:
 from bluetheme import __version__ as version
 
 setup(
-	name='bluetheme',
+	name='prussiantheme',
 	version=version,
 	description='Material UI for ERPNext',
-	author='Hashir',
-	author_email='hashir@bluelynx.qa',
+	author='Roy Irwan',
+	author_email='roy.irwan@gmail.com',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
