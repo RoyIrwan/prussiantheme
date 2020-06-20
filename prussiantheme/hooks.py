@@ -2,8 +2,8 @@
 from __future__ import unicode_literals
 from . import __version__ as app_version
 
-app_name = "bluetheme"
-app_title = "Blue Theme"
+app_name = "prussiantheme"
+app_title = "Prussian Theme"
 app_publisher = "Hashir"
 app_description = "Material UI for ERPNext"
 app_icon = "octicon octicon-file-directory"
@@ -15,11 +15,11 @@ app_license = "GNU General Public License"
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/bluetheme/css/bluetheme.css"
+app_include_css = "/assets/prussiantheme/css/prussiantheme.css"
 # app_include_js = "/assets/bluetheme/js/bluetheme.js"
 
 # include js, css files in header of web template
-web_include_css = "/assets/bluetheme/css/bluetheme.css"
+web_include_css = "/assets/prussiantheme/css/prussiantheme.css"
 # web_include_js = "/assets/bluetheme/js/bluetheme.js"
 
 # include js in page
